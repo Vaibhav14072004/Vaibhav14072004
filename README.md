@@ -1,3 +1,4 @@
+![image]()
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">A passionate 3rd year BTech (Computer Science and Engineering) Student</h3>
 
@@ -6,8 +7,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Vaibhav14072004](https://github.com/Vaibhav14072004)
 
 - 📫 How to reach me **vaibhav2004.va@gmail.com**
-
-- ⚡ Fun fact **I think I am the most hardworking than others**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
