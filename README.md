@@ -1,4 +1,4 @@
-![image]()
+(![image](https://github.com/user-attachments/assets/7514b9df-b449-4568-8645-9b163c83bec1))
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">A passionate 3rd year BTech (Computer Science and Engineering) Student</h3>
 
