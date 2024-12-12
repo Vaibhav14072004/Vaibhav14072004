@@ -1,7 +1,7 @@
-(![image](https://github.com/user-attachments/assets/7514b9df-b449-4568-8645-9b163c83bec1))
+(![logo](https://github.com/user-attachments/assets/7514b9df-b449-4568-8645-9b163c83bec1))
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">A passionate 3rd year BTech (Computer Science and Engineering) Student</h3>
-
+<img align="right" alt="coding" height="200" width="300"  src="https://github.com/Vaibhav14072004/Vaibhav14072004/blob/main/Github.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav14072004&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav14072004" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vaibhav14072004](https://github.com/Vaibhav14072004)
